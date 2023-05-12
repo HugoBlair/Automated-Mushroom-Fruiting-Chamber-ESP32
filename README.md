@@ -1,5 +1,5 @@
 # Automated-Mushroom-Fruiting-Chamber
-This is project that aims to automate caring for a fruiting chamber. The completed system will be able to control the temperature and humidity, and be able to log and graph all of the information. 
+This project that aims to automate caring for a fruiting chamber. The completed system will be able to control the temperature and humidity, and be able to log and graph all of the information. 
 This will enable the maximum growth rate for the mushrooms, with minimum human input.
 
 Features:   
